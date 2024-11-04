@@ -1,6 +1,6 @@
-if SHIELD_CUSTOM
+if SHIELD_KINESIS
 
-    config ZMK_KEYBOARD_NAME
-    default "custom"
+config ZMK_KEYBOARD_NAME
+    default "Kinesis"
 
 endif

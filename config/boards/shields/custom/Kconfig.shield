@@ -1,2 +1,2 @@
-config SHIELD_CUSTOM
-    def_bool $(shields_list_contains, custom)
+config SHIELD_KINESIS
+    def_bool $(shields_list_contains,kinesis)
