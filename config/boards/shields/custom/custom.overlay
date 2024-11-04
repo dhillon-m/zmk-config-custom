@@ -32,7 +32,7 @@
                     <&gpio1 7 GPIO_ACTIVE_HIGH>,
                     <&gpio1 11 GPIO_ACTIVE_HIGH>,
                     <&gpio0 10 GPIO_ACTIVE_HIGH>,
-                    <&gpio0 09 GPIO_ACTIVE_HIGH>;
+                    <&gpio0 9 GPIO_ACTIVE_HIGH>;
     };
 
     default_transform: matrix_transform {
