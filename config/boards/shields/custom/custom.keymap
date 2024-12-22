@@ -15,7 +15,7 @@
                 &kp TAB         &kp Q           &kp W           &kp E               &kp R           &kp T           &kp Y           &kp U           &kp I           &kp O           &kp P           &kp LBKT        &kp RBKT                        &kp END
                 &kp CAPS        &kp A           &kp S           &kp D               &kp F           &kp G           &kp H           &kp J           &kp K           &kp L           &kp SEMI        &kp GB_AT       &kp NUHS        &kp RET         &kp PG_UP
                 &kp LSHFT       &kp NUBS        &kp Z           &kp X               &kp C           &kp V           &kp B           &kp N           &kp M           &kp COMMA       &kp DOT         &kp GB_FSLH     &kp RSHFT       &kp UP          &kp PG_DN
-                &kp LCTRL       &kp LWIN        &kp LALT                                                            &kp SPACE                                       &kp ALT         &mo 1           &kp RCTRL       &kp LEFT        &kp DOWN        &kp RIGHT
+                &kp LCTRL       &kp LWIN        &kp LALT                                                            &kp SPACE                                       &kp LALT         &mo 1           &kp RCTRL       &kp LEFT        &kp DOWN        &kp RIGHT
             >;
         };
 
